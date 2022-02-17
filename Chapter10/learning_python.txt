@@ -1,0 +1,6 @@
+In Python you can use the print method to easily write to the screen
+In Python you can create functions quickly
+In Python you can use import to pull functions from other scripts
+In Python you can declare variable without explicitly saying exactly what it is
+In Python you can change the variable type without having to jump through 1000 hoops
+In Python you can easily create lists

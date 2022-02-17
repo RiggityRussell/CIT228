@@ -1,0 +1,14 @@
+{
+    ".strip": "Strips extra white space from both sides of a string, or other variable type.",
+    "Boolean expression": "A conditional test to determine if something is True or False.",
+    "Comments": "comments are denoted with a hastag, #, and the texst after it is not compiled by the program.",
+    "Constant": "variable whose value stays the same throughout the program.",
+    "Float": "Any number with a decimal point.",
+    "List": "A group of elements that can be accessed by their numerical value within the list.",
+    "Tuple": "A list of items that cannot be changed.",
+    "Variable": "Holder of a value",
+    "dictionary": "a grouping of keys and values",
+    "greater than": "its bigger than something else",
+    "if-statement": "if statements are used to determine equality, comparisons, and conditions.",
+    "in/ not in": "Checks to see if there is an equivalent value in, or not in, a list or condition."
+}
